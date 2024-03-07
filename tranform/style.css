@@ -1,0 +1,26 @@
+.container {
+  width: 200px;
+  height: 200px;
+  background-color: teal;
+  margin: 80px auto;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: scale(2);
+  /* transform: scaleX(2) scaleY(1.5); */
+  /* transform: skew(20deg, 40deg); */
+  /* transform: translate(20px, -40px); */
+  /* diamond shape */
+  /* transform: rotate(45deg);
+  transform-origin: 10% 0%; */
+}
+
+/* .box:hover {
+  transform: rotate(50deg);
+} */
