@@ -1,0 +1,14 @@
+.container {
+  width: 500px;
+  height: 500px;
+  background-color: teal;
+
+  /* for random shapes use clip path maker */
+
+  /* full circle
+  clip-path: circle(50%);  */
+
+  /* clip-path: circle(50% at 0 0); */
+
+  /* clip-path: polygon(0 0, 70% 0, 43% 100%, 0% 100%); */
+}

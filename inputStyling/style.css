@@ -1,0 +1,11 @@
+input {
+  padding: 20px;
+  border: 1px solid black;
+  caret-color: aqua;
+}
+input:focus {
+  outline: 1px solid red;
+}
+input::placeholder {
+  color: red;
+}

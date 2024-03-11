@@ -1,0 +1,5 @@
+.player {
+  width: 100%;
+  border-color: black;
+  aspect-ratio: 16/9;
+}
