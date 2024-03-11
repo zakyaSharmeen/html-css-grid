@@ -5,14 +5,18 @@
 }
 header {
   display: flex;
-  background-color: black;
+  background: black;
   position: fixed;
+}
+.head {
+  width: 1500px;
+  height: 50px;
 }
 
 .logo {
   cursor: pointer;
   margin-left: 850px;
-  text-align: center;
+
   padding-top: 10px;
 }
 ul {
