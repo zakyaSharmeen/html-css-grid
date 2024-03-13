@@ -1,4 +1,4 @@
-img {
+img:hover {
   /* filter: blur(10px); */
   filter: grayscale(70%);
 }
